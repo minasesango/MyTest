@@ -29,6 +29,7 @@ None
 
 ## Licence
 
+Meh.
 
 ## Author
 
